@@ -1,0 +1,51 @@
+* {
+    background-color: #222222;
+}
+
+.chess {
+    display: inline-block;
+    border: 6px solid #B06B26;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px #FBD6A1, 0 8px 16px #FBD6A1;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+.one {
+    text-align: center;
+    background-color: #B06B26;
+    padding: 10px;
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    font-size: 35px;
+}
+
+.two {
+    text-align: center;
+    background-color: #FBD6A1;
+    padding: 10px;
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    font-size: 35px;
+}
+
+.text {
+    background-color: #B06B26;
+    width: auto;
+    position: absolute;
+    top: 262px;
+    right: 30px;
+    color: #FBD6A1;
+    font-size: x-large;
+}
+
+.one-p {
+    margin: 10px;
+}
+
+.tow-p {
+    margin: 10px;
+    padding-left: 30px;
+}
